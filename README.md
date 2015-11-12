@@ -1,4 +1,4 @@
-DraggableListView
+Drag and Drop ListView
 =================
 
 Drag to rearrange ListView for Xamarin Android. This is Xamarin/C# port of the DevBytes Java Implementation (https://www.youtube.com/watch?v=_BZIvjMgH-Q)
