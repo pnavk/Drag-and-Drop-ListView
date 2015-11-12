@@ -8,11 +8,6 @@ See MainActivity.cs for an implementation example. Note two things in the exampl
 Within the GetView method in the Adapter:
   The TranslationY property of the cell is reset
   The visibility of the cell is set based on the value of the mMobileCellPosition variable
-  ...
-    cell.Visibility = mMobileCellPosition == position ? ViewStates.Invisible : ViewStates.Visible;
-		cell.TranslationY = 0;
-	...
-
 
 http://www.pranavkhandelwal.com/blog/2014/12/26/drag-rearrange-listview-for-xamarin-android
 
