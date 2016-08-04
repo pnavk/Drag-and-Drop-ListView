@@ -1,6 +1,6 @@
 ﻿/*
  * Author:
- * Pranav Khandelwal (pranav@pranavkhandelwal.com)
+ * Pranav PK Khandelwal (pranav@pranavkhandelwal.com)
  * 
  * DynamicListView.cs is a Xamarin.Android/C# port of DevBytes DynamicListView.java,
  * (http://developer.android.com/shareables/devbytes/ListViewDraggingAnimation.zip)
