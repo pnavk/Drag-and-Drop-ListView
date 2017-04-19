@@ -12,5 +12,3 @@ Within the GetView method in the Adapter:
       2. The visibility of the cell is set based on the value of the mMobileCellPosition variable
 
 http://www.pranavkhandelwal.com/blog/2014/12/26/drag-rearrange-listview-for-xamarin-android
-
-Blah Blah Blah
